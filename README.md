@@ -32,6 +32,9 @@ Aqui teneis un video de su funcionamiento y construccion:
 YOUTUBE VIDEO:
 [![ZX-Spectrum Portatil](https://img.youtube.com/vi/7DbhdgzA244&t=18s&ab_channel=stormbytes1970/0.jpg)](https://www.youtube.com/watch?v=7DbhdgzA244&t=18s&ab_channel=stormbytes1970)
 
+Enlace al proyecto:  https://drive.google.com/drive/folders/148vkWL0z3aNHc0-SCpYMWAhevF0yUeZ0?usp=sharing
+
+
 <img src="images/IMG_20241206_124623.jpg" width="800"/>
 
 <img src="images/IMG_20241125_213412.jpg" width="800"/>
