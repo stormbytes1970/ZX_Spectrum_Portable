@@ -13,3 +13,16 @@ No soy un gran diseñador ni desarrollador informatico, solo me divierto haciend
 solo compartirlo por si alguien tiene mi misma inquietud y desea construirse uno, divirtiendose como yo lo he hecho.
 
 <img src="images/IMG_20241206_120013.jpg" width="800"/>
+Como su nombre indica se trata de un emulador de zx spectrum que conta de alimentacion por bateria
+y display de 320x240 pixels incorporado,
+Dispone de un teclado completo y funcional de zx pectrum incluyendo todos los comandos y textos originales
+del modelo 16/48K
+Dispone de de un slot para tarjeta micro-sd en la que pueden almacenarse juegos en formatos snap, asi como
+en formato tap para tener una experiencia de carga cercana a la original
+Por madio de la conexion micro-usb pueden conectarse mandos de juego y teclados e incluso ratones, los mandos
+de juego son emulados como joysticks tipo kempston o cursor.
+Dispone de un puerto usb tipo C como cargador integrado para su bateria de litio de 1500ma/h
+puede utilizarse mientras se carga, siendo recomendable conectar el cargador al conectar dispositivos
+al puerto micro-usb.
+La duracion aproximada de la bateria es de dos horas.
+La caja impresa en 3d dispone de tapa en la que se aloja el display, que puede ser cerrada para protejer a este.
