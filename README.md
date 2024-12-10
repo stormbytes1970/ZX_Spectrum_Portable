@@ -11,4 +11,5 @@ Pero hace un tiempo descubri el proyecto de Fruit-bat y me quede enganchado: una
 Se asemejaria a un Spectrum que nunca existio, pues de aqui salio esta idea.
 No soy un gran diseñador ni desarrollador informatico, solo me divierto haciendo este tipo de cosas y siguiendo los pasos de gente mas preparada que yo,tan 
 solo compartirlo por si alguien tiene mi misma inquietud y desea construirse uno, divirtiendose como yo lo he hecho.
-images/IMG_20241206_120013.jpg
+
+<img src="images/IMG_20241206_120013.jpg" width="400"/>
