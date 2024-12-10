@@ -34,6 +34,21 @@ YOUTUBE VIDEO:
 
 <img src="images/IMG_20241206_124623.jpg" width="800"/>
 
+<img src="images/IMG_20241125_213412.jpg" width="800"/>
 
+<img src="images/IMG_20241125_213626.jpg" width="800"/>
 
-![IMG_20241125_213412](https://github.com/user-attachments/assets/725bdb09-453c-4fce-aadc-1be077afce20)
+<img src="images/IMG_20241206_124317.jpg" width="800"/>
+
+<img src="images/IMG_20241206_124342.jpg" width="800"/>
+
+<img src="images/IMG_20241206_124439.jpg" width="800"/>
+
+<img src="images/placa base.jpg" width="800"/>
+
+<img src="images/placa base.PNG" width="800"/>
+
+<img src="images/placa teclado kicad 8.jpg" width="800"/>
+
+<img src="images/placa teclado.PNG" width="800"/>
+
