@@ -28,6 +28,6 @@ La duracion aproximada de la bateria es de dos horas y media.
 La caja impresa en 3d dispone de tapa en la que se aloja el display, que puede ser cerrada para protejer a este.
 
 Aqui teneis un video de su funcionamiento y construccion:
-[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://[www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/7DbhdgzA244))
+[![ZX Spectrum portable](https://img.youtube.com/vi/VIDEO_ID/0.jpg)]((https://youtu.be/7DbhdgzA244))
 
 
