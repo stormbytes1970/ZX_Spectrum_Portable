@@ -28,7 +28,7 @@ La duracion aproximada de la bateria es de dos horas y media.
 La caja impresa en 3d dispone de tapa en la que se aloja el display, que puede ser cerrada para protejer a este.
 
 Aqui teneis un video de su funcionamiento y construccion:
-[![ZX-Spectrum Portatil](https://img.youtube.com/vi/7DbhdgzA244&t=18s&ab_channel=stormbytes1970/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![ZX-Spectrum Portatil](https://img.youtube.com/vi/7DbhdgzA244&t=18s&ab_channel=stormbytes1970/0.jpg)](https://www.youtube.com/watch?v=7DbhdgzA244&t=18s&ab_channel=stormbytes1970)
 
 
 
